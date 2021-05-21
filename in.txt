@@ -1,0 +1,5 @@
+4
+a f e d 0
+a c d 0
+d f g j 0
+w 0
